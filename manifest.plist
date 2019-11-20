@@ -10,7 +10,7 @@
                <key>kind</key>
                <string>software-package</string>
                <key>url</key>
-               <string><![CDATA[https://cnscm.com/file/app/njnii/1574143403/红星闪耀.ipa]]></string>
+               <string>https://cnscm.com/file/app/njnii/1574143403/红星闪耀.ipa></string>
              </dict>
              <dict>
                <key>kind</key>
@@ -18,7 +18,7 @@
                <key>needs-shine</key>
                <integer>0</integer>
                <key>url</key>
-               <string><![CDATA[https://cnscm.com/file/app/njnii/logo.png]]></string>
+               <string>https://cnscm.com/file/app/njnii/logo.png></string>
              </dict>
              <dict>
                <key>kind</key>
@@ -26,7 +26,7 @@
                <key>needs-shine</key>
                <true/>
                <key>url</key>
-               <string><![CDATA[https://cnscm.com/file/app/njnii/logo.png]]></string>
+               <string>https://cnscm.com/file/app/njnii/logo.png></string>
              </dict>
            </array>
            <key>metadata</key>
@@ -34,11 +34,11 @@
              <key>bundle-identifier</key>
              <string>com.njnii.cn</string>
              <key>bundle-version</key>
-             <string><![CDATA[1574143403]]></string>
+             <string>1574143403></string>
              <key>kind</key>
              <string>software</string>
              <key>title</key>
-             <string><![CDATA[红星闪耀]]></string>
+             <string>红星闪耀></string>
            </dict>
         </dict>
       </array>
